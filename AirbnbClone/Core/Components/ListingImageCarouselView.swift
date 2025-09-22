@@ -7,7 +7,7 @@ struct ListingImageCarouselView: View {
         "listing-3",
         "listing-4",
     ]
-    
+
     var body: some View {
         ScrollView {
             TabView {
