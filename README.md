@@ -39,7 +39,6 @@ AirbnbClone/
 ## ✨ 주요 기능
 
 - 🏠 **숙소 목록**: 다양한 숙소들을 카드 형태로 표시
-- 📸 **이미지 캐러셀**: 숙소 이미지를 스와이프로 확인
 - 🔍 **검색 및 필터**: 원하는 조건으로 숙소 검색
 - 📍 **지도 보기**: 지도에서 숙소 위치 확인
 - ❤️ **위시리스트**: 관심있는 숙소 저장
@@ -70,13 +69,3 @@ open AirbnbClone.xcodeproj
 4. 프로젝트 설정에서 Team 선택
 5. Bundle Identifier를 고유한 값으로 변경
 6. 빌드 타겟에서 연결된 iPhone 선택 후 실행 (⌘+R)
-
-### 코드 서명
-- **개발용**: 무료 Apple ID 사용 가능 (7일 제한)
-- **배포용**: Apple Developer Program ($99/년) 필요
-
-## 👨‍💻 개발자
-
-개발 및 문의: [GitHub Issues](https://github.com/asdlf033/AirbnbCloneCoding/issues)
-
----
