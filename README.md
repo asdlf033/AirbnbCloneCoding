@@ -80,5 +80,3 @@ open AirbnbClone.xcodeproj
 개발 및 문의: [GitHub Issues](https://github.com/asdlf033/AirbnbCloneCoding/issues)
 
 ---
-
-⭐ 이 프로젝트가 도움이 되었다면 Star를 눌러주세요!
